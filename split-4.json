@@ -1,0 +1,45 @@
+{
+    [{
+        "Comments": "Day 1 - Chest, Triceps",
+        "Exercices": [{
+            "name": "Barbell Bench Press",
+            "sets": 3,
+            "reps": 5
+        },{
+            "name": "Dumbbell Bench Press",
+            "sets": 3,
+            "reps": 5
+        },{
+            "name": "Dumbbell Flyes",
+            "sets": 3,
+            "reps": 8
+        },{
+            "name": "Weighted Dips",
+            "sets": 3,
+            "reps": 8
+        },{
+            "name": "Tricep Pushdown",
+            "sets": 3,
+            "reps": 8
+        },{
+            "name": "Skull Crushers",
+            "sets": 3,
+            "reps": 8
+        },{
+            "name": "Weighted Crunch/Leglift",
+            "sets": 3,
+            "reps": 15
+        },{
+            "name": "Weighted Crunch Twists",
+            "sets": 3,
+            "reps": 15
+        }]
+    },{
+        "Comments": "Day 2 - Back & Abs",
+        "Exercices": [{
+            "name": "Deadlifts",
+            "sets": 3,
+            "reps": 8
+        }]
+    }]
+}
