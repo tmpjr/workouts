@@ -1,6 +1,7 @@
 {
-    [{
-        "Comments": "Day 1 - Chest, Triceps",
+    "title": "My Four-Day Split Routine",
+    "workouts": [{
+        "Comments": "Day 2 - Chest, Triceps",
         "Exercices": [{
             "name": "Barbell Bench Press",
             "sets": 3,
@@ -33,13 +34,6 @@
             "name": "Weighted Crunch Twists",
             "sets": 3,
             "reps": 15
-        }]
-    },{
-        "Comments": "Day 2 - Back & Abs",
-        "Exercices": [{
-            "name": "Deadlifts",
-            "sets": 3,
-            "reps": 8
         }]
     }]
 }
