@@ -1,8 +1,9 @@
 {
     "title": "My Four-Day Split Routine",
+    "description": "This is a work in progress",
     "workouts": [{
-        "Comments": "Day 2 - Chest, Triceps",
-        "Exercices": [{
+        "title": "Day 2 - Chest, Triceps",
+        "exercises": [{
             "name": "Barbell Bench Press",
             "sets": 3,
             "reps": 5
