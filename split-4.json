@@ -6,69 +6,137 @@
         "exercises": [{
             "name": "Front Squat",
             "sets": 3,
-            "reps": 5
+            "reps": 5,
+            "rest": 90
         },{
             "name": "Leg Extension",
             "sets": 3,
-            "reps": 8
+            "reps": 8,
+            "rest": 60
         },{
             "name": "Straight-Leg Deadlift",
             "sets": 3,
-            "reps": 8
+            "reps": 8,
+            "rest": 60
         },{
             "name": "Lying Leg Curl",
             "sets": 3,
-            "reps": 8
+            "reps": 8,
+            "rest": 120
         },{
             "name": "Standing Calf Raise",
             "sets": 3,
-            "reps": 15
+            "reps": 15,
+            "rest": 120
         },{
             "name": "Leg Press Calf Raises",
             "sets": 3,
-            "reps": 15
+            "reps": 15,
+            "rest": 120
         }]
     },{
-        "title": "Day 2 - Chest, Triceps",
-        "exercises": [{
-            "name": "Barbell Bench Press",
-            "sets": 3,
-            "reps": 5
-        },{
-            "name": "Dumbbell Bench Press",
-            "sets": 3,
-            "reps": 5
-        },{
-            "name": "Dumbbell Flye",
-            "sets": 3,
-            "reps": 8
-        },{
-            "name": "Weighted Dips",
-            "sets": 3,
-            "reps": 8
-        },{
-            "name": "Tricep Pushdown",
-            "sets": 3,
-            "reps": 8
-        },{
-            "name": "Skull Crusher",
-            "sets": 3,
-            "reps": 8
-        },{
-            "name": "Weighted Crunch/Leglift",
-            "sets": 3,
-            "reps": 15
-        },{
-            "name": "Weighted Crunch Twists",
-            "sets": 3,
-            "reps": 15
-        }]
-    },{
-        "title": "Day 3 - Shoulders, Triceps, Abs",
+        "title": "Day 2 - Shoulders, Biceps, Abs",
         "exercises": [{
             "name": "Hammer Shoulder Press",
             "sets": 3,
-            "reps": 8
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Lateral Raises",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Arnold Press",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Standing Barbell Curl",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Alternating Dumbell Curl",
+            "sets": 3,
+            "reps": 12,
+            "rest": 60
+        },{
+            "name": "Concentration Curls",
+            "sets": 3,
+            "reps": 12,
+            "rest": 60
+        },{
+            "name": "Hanging Leg Raise",
+            "sets": 4,
+            "reps": 12,
+            "rest": 60
+        },{
+            "name": "Planks",
+            "sets": 3,
+            "reps": 8,
+            "rest": 30
+        }]
+    },{
+        "title": "Day 3 - Chest, Triceps",
+        "exercises": [{
+            "name": "Barbell Bench Press",
+            "sets": 3,
+            "reps": 5,
+            "rest": 90
+        },{
+            "name": "Incline Dumbbell Bench Press",
+            "sets": 3,
+            "reps": 5,
+            "rest": 90
+        },{
+            "name": "Dumbbell Fly",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Weighted Dips",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Tricep Pushdown",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Skull Crusher",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        }]
+    },{
+        "title": "Day 4 - Back, Abs",
+        "exercises": [{
+            "name": "Wide Grip Pull-Ups",
+            "sets": 5,
+            "reps": 8,
+            "rest": 90
+        },{
+            "name": "Hammer Pull Downs",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Dumbell Rows",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60
+        },{
+            "name": "Bosu Weighted Crunch",
+            "sets": 3,
+            "reps": 15,
+            "rest": 30
+        },{
+            "name": "Weighted Side Bends",
+            "sets": 3,
+            "reps": 15,
+            "rest": 30
         }]
     }]
 }
